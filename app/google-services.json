@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958721074481",
+    "project_id": "text-detecter-application",
+    "storage_bucket": "text-detecter-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958721074481:android:4fbfdb74625cfc5031bc10",
+        "android_client_info": {
+          "package_name": "com.example.picknoteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958721074481-e9tm6ej3ok6n98vukce9ug00favr8379.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25zhY__5oVGD9aisDzBpprgn1GbmHDfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958721074481-e9tm6ej3ok6n98vukce9ug00favr8379.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
